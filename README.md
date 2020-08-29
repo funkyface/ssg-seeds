@@ -1,2 +1,3 @@
 # ssg-seeds
-Minecraft SSG seeds for 1.16
+
+Check [releases](https://github.com/funkyface/ssg-seeds/releases) for the seed list.
